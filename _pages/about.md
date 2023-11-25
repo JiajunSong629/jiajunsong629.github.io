@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Engineer at <a href='https://www.bigai.ai/'>BIGAI</a>. Previous <a href='https://twitter.com/pku1898?lang=en'>@PKU Math</a> <a href='https://stat.duke.edu/'>@Duke Stats</a> 
 
 profile:
   align: right
-  image: 
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile.jpeg
+  image_circular: true # crops the image to make it circular
+  more_info:
 
 news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Embarking as an applied statistician, I have developed a keen interest in challenging inference problems in the real world. There is rarely a clean setup, and novel and complex issues consistently emerge in the data, such as spill-over spatial effects, feedback loop in the system, network interference and so on.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Meanwhile, in an era when more people come to foundation models for their excellence at prediction, obtaining interpretability and effective model inference poses a formidable challenge.
+
+My current interests lie in
+- **(Causal) Inference framework in complex settings, such as networks or correlated data.**
+- **Analyzing foundation models with statistical methods, such as high-dimensional statistics.**
