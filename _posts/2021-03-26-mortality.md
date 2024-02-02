@@ -2,7 +2,7 @@
 layout: post
 title: Investigating Mortality Rates from Cardiovascular Pediatric Surgery in STS Public Reporting
 date: 2021-03-26 11:12:00-0400
-description:
+description: Based on historic mortality rate, we design a decision rule for which hospital to go to given the specific condition. We fit a Bayesian joint model of mortality rates and hospital volumes to estimate the mortality rates by hospital and procedure.
 tags: applied-stats
 categories:
 related_posts: false
