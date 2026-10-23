@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Engineer at <a href='https://www.bigai.ai/'>BIGAI</a>. Previous <a href='https://twitter.com/pku1898?lang=en'>@PKU Math</a> <a href='https://stat.duke.edu/'>@Duke Stats</a> 
+subtitle: Algorithm Engineer at <a href='https://www.alibaba.com/'>Alibaba</a>. Previous <a href='https://twitter.com/pku1898?lang=en'>@PKU Math</a> <a href='https://stat.duke.edu/'>@Duke Stats</a> 
 
 profile:
   align: right
@@ -22,8 +22,10 @@ Meanwhile, in an era when more people come to foundation models for their excell
 
 My current interests lie in
 
-- **(Causal) Inference framework in complex settings, such as networks or correlated data.**
+- **Interpretability of large language models**: uncovering hidden geometry and compositional mechanisms (e.g., induction heads) inside transformers.
 
-- **Analyzing foundation models with statistical methods, such as high-dimensional statistics.**
+- **Reinforcement learning for LLM post-training**: policy optimization and reward design for RLVR, including mitigating multi-reward conflicts.
+
+- **Reliability and evaluation of LLMs**: hallucination mitigation via multi-agent self-check, theory-of-mind benchmarks, and the divergence between human- and LLM-generated tasks.
 
 &nbsp;
